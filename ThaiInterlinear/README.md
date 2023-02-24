@@ -18,5 +18,7 @@ In its simplest form, an interlinear gloss is simply a literal, word-for-word tr
 
 ### Simple Gloss
 
-- [thai_interlinear_snippet.py](https://github.com/jonfernq/News-Automation/blob/main/ThaiInterlinear/thai_interlinear_snippet.py): Word segmentation on Thai language text, word lookup on the segmented words, inserting English definition in parentheses after the Thai word in the text.
-
+- [thai_interlinear_snippet.py](https://github.com/jonfernq/News-Automation/blob/main/ThaiInterlinear/thai_interlinear_snippet.py): Inserting English definition in parentheses after the Thai word in the text, after first word segmentation on Thai language text, then English gloss/translation lookup on the segmented words.
+- [make_interlinear_function.py](https://github.com/jonfernq/News-Automation/blob/main/ThaiInterlinear/make_interlinear_function.py): Glossing (in the above) made into a function.  
+-[make_interlinear_directory.py](https://github.com/jonfernq/News-Automation/blob/main/ThaiInterlinear/make_interlinear_directory.py): Creates Thai glossed to English files for all files in a directory, by using a function: apply_function_to_files_in_directory.
+- [thai_news_summary.txt](https://github.com/jonfernq/News-Automation/blob/main/ThaiInterlinear/thai_news_summary.txt): A sample whole directory of Thai language files glossed to English copied into one text file. 
