@@ -16,10 +16,9 @@ the source text and its translation, and the structure of the original language.
 In its simplest form, an interlinear gloss is simply a literal, word-for-word translation of the source text." 
 (Source: [Wikipedia](https://en.wikipedia.org/wiki/Interlinear_gloss))
 
-Code for simple glossing is provided below that uses the first definition or 'synset' from WordNet.
-To get more accurate glossing more involved [word sense disambiguation (WSD)](https://en.wikipedia.org/wiki/Word-sense_disambiguation), identifying which sense of a word is meant in a sentence, must be done as well. 
-
 ### Simple Gloss
+
+Code for simple glossing is provided below that uses the first definition or [synset](https://en.wikipedia.org/wiki/Synset) from [WordNet](https://en.wikipedia.org/wiki/WordNet). To get more accurate glossing more involved [word sense disambiguation (WSD)](https://en.wikipedia.org/wiki/Word-sense_disambiguation), identifying which sense of a word is meant in a sentence, must be done as well. 
 
 - [thai_interlinear_snippet.py](https://github.com/jonfernq/News-Automation/blob/main/ThaiInterlinear/thai_interlinear_snippet.py): Inserting English definition in parentheses after the Thai word in the text, after first word segmentation on Thai language text, then English gloss/translation lookup on the segmented words.
 - [make_interlinear_function.py](https://github.com/jonfernq/News-Automation/blob/main/ThaiInterlinear/make_interlinear_function.py): Glossing (in the above) made into a function.  
