@@ -1,6 +1,6 @@
 ## Thai Interlinear Translation 
 
-Inserting the English definitions after the Thai words of a Thai text is one form of interlinear translation.
+Glossing or inserting the English definitions after the Thai words of a Thai text is one form of interlinear translation.
 This sort of translation helps language learners read texts in the language they are learning.
 It saves them the time of looking up words in the dictionary. 
 
@@ -15,6 +15,9 @@ interlinear for short. Such glosses help the reader follow the relationship betw
 the source text and its translation, and the structure of the original language. 
 In its simplest form, an interlinear gloss is simply a literal, word-for-word translation of the source text." 
 (Source: [Wikipedia](https://en.wikipedia.org/wiki/Interlinear_gloss))
+
+Code for simple glossing is provided below that uses the first definition or 'synset' from WordNet.
+To get more accurate glossing more involved [word sense disambiguation (WSD)](https://en.wikipedia.org/wiki/Word-sense_disambiguation), identifying which sense of a word is meant in a sentence, must be done as well. 
 
 ### Simple Gloss
 
