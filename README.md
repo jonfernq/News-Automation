@@ -9,7 +9,7 @@ The reverse approach is taken here, namely crafting the Thai news for Thai langu
 
 - [rss2json.py](https://github.com/jonfernq/News-Automation/blob/main/RSSFeed/rss2json.py): Retrieve an online RSS feed and convert to JSON format. 
 - [voa_thai_feed.json](https://github.com/jonfernq/News-Automation/blob/main/RSSFeed/voa_thai_feed.json): VOA Thai News RSS feed converted to JSON format.  
--[json2articles.py](https://github.com/jonfernq/News-Automation/blob/main/RSSFeed/json2articles.py): Extracting news articles from JSON RSS feed file and writing to text files.  
+- [json2articles.py](https://github.com/jonfernq/News-Automation/blob/main/RSSFeed/json2articles.py): Extracting news articles from JSON RSS feed file and writing to text files.  
 
 ### Text-to-Speech Audio for Thai News 
 
