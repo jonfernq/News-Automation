@@ -18,7 +18,7 @@ In its simplest form, an interlinear gloss is simply a literal, word-for-word tr
 
 ### Simple Gloss
 
-The code for simple glossing is provided below.
+The code for simple glossing from Thai to English is provided below.
 
 This code uses the first definition or [synset](https://en.wikipedia.org/wiki/Synset) from [WordNet](https://en.wikipedia.org/wiki/WordNet). 
 
