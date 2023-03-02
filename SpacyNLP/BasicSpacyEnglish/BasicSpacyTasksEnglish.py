@@ -1,4 +1,4 @@
-
+## Basic Spacy NLP Tasks for English Language 
 
 Easy tasks and code snippets to get started with using Spacy in Python:
 
