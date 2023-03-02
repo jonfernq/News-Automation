@@ -58,6 +58,7 @@ doc = nlp("สวัสดีครับ ยินดีต้อนรับ�
 	
 for token in doc:
     print(token.text, token.pos_)
+```
 
 Output:
 
