@@ -22,6 +22,6 @@ Overall, Spacy provides a powerful and efficient toolkit for various NLP tasks, 
 
 ### Basic Spacy NLP Tasks 
 
-- [Spacy for English]()
+- [Spacy for English](https://github.com/jonfernq/News-Automation/blob/main/SpacyNLP/BasicSpacyEnglish/BasicSpacyTasksEnglish.py)
 
 - [Spacy for Thai]()
