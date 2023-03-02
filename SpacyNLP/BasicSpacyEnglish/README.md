@@ -1,5 +1,12 @@
 ## Basic Spacy NLP Tasks for English Language 
 
+Installation:
+
+```
+pip install spacy 
+python -m spacy download en_core_web_sm
+```
+
 Easy tasks and code snippets to get started with using Spacy in Python:
 
 1. Tokenization is the process of splitting a text into individual units such as words or punctuation marks. Spacy's tokenizer can be used as follows:
