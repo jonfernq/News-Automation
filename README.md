@@ -31,8 +31,8 @@ The reverse approach is taken here, namely crafting the Thai news for Thai langu
 
 Spacy is an open-source software library for advanced Natural Language Processing (NLP) tasks in Python. 
 
-- [Basic Spacy Tasks for English]() 
+- [Basic Spacy Tasks for English](https://github.com/jonfernq/News-Automation/tree/main/SpacyNLP/BasicSpacyEnglish) 
 
-- [Basic Spacy Tasks for Thai]() 
+- [Basic Spacy Tasks for Thai](https://github.com/jonfernq/News-Automation/tree/main/SpacyNLP/BasicSpacyThai) 
 
 
