@@ -26,3 +26,13 @@ The reverse approach is taken here, namely crafting the Thai news for Thai langu
 #### Extrajudicial Killing during the 2016 Philippine 'War on Drugs': 
 
 - [Data Analysis](https://github.com/jonfernq/Extrajudicial-Killing-Philippines)
+
+### Spacy NLP 
+
+Spacy is an open-source software library for advanced Natural Language Processing (NLP) tasks in Python. 
+
+- [Basic Spacy Tasks for English]() 
+
+- [Basic Spacy Tasks for Thai]() 
+
+
