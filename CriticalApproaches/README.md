@@ -75,20 +75,23 @@ Also see:
 
 ### Communities of Scholarship
 
-Science began in communities of scientists exchanging ideas in small societies such as the royal society: 
+Science began in communities of scientists exchanging ideas in small societies such as the royal society, 
+of which Isaac Newton served as a president and Robert Boyle was an early member: 
 
 "The Royal Society... Founded on 28 November 1660 [362 years ago], it was granted a royal charter by King Charles II as The Royal Society and is the oldest continuously existing scientific academy in the world." (Source: [Wikipedia](https://en.wikipedia.org/wiki/Royal_Society))
 
-Isaac Newton served as a president and Robert Boyle was an early member.
+This relatively ancient form of scholarly exchange might be well-suited to many contexts of science and scholarship today. 
+This might include graduate student publication and publication in small limited disciplines that cannot even support 
+academic journals run by publishers. 
 
-There are many oontexts of science and scholarship for which this form of scholarly exchange might be suited, 
-including graduate student publication and in small limited disciplines that cannot even support 
-academic journals run by publishers. The discipline or scholarly focus of pre-modern Burmese and Southeast Asian history
-that I have actively published in, is arguably of this type with scholars having to search for possibly related journals to publish in.
+The discipline or scholarly focus of pre-modern Burmese and Southeast Asian history
+that I have actively published in, is arguably of this type, with scholars having to search for possibly related journals to publish in,
+and almost no conceivable opportunities for scholars actually living locally in the country under study.
+
 However, the [SOAS Bulletin of Burma Research (SBBR)](https://en.wikipedia.org/wiki/SOAS_Bulletin_of_Burma_Research)
 for a time provided a community of scholars with a platform to publish on. 
 
-The journal that claims to be the premier journal in the field is now firmly ensconced behind a paywall making it inaccessible 
+The once open-access journal that claims to be the premier journal in the field is now firmly ensconced behind a paywall making it inaccessible 
 to the people of Burma, the subject of its research. 
 
 **Journal of Burma Studies**
