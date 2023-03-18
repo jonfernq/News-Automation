@@ -1,14 +1,6 @@
 ## Critical Approaches to the News 
 
-Over time, financial pressures at news outlets have made investigative reporting more difficult to finance. This is a reasonable hypothesis. 
-It cannot be stated as an objective scientific fact without evidence to support it.This reality is a good reason to retain a note of scepticism for much 
-of the opinion expressed on a typical op-ed page.
-
-However, in one possible world with unlimited journalistic resources, empirical quantitative and qualitative evidence would 
-be mustered to support op-ed pieces and also conclusions reached by 'experts' expressing their opinions in news articles, 
-which is a pretty common form of editorializing that does exclude certain pontetially opposing voices.
-
-The issue I wish to focus on initially here is scholarly publishing at the global level 
+The issue I wish to focus on here is scholarly publishing at the global level 
 which is highly dependent on institutions and corporations from the United States and the West,
 and thus given this dependence is worth more critical attention.
 
