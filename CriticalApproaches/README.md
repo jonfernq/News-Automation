@@ -40,6 +40,11 @@ with year over year growth of over 50% in 2017, 2018 and 2019,
 attracting attention to their very fast article processing times."
 (Source: [Wikipedia](https://en.wikipedia.org/wiki/MDPI))
 
+MDPI has a business model that addresses the needs of academics working under 'publish or perish' conditions 
+in universities around the world:
+
+"MDPI's business model is based on establishing entirely open access broad-discipline journals, with fast processing times from submission to publication and article processing charges paid by the author. MDPI's business practices have attracted controversy, with critics suggesting it sacrifices editorial and academic rigor in favor of operational speed and business interests. MDPI was included on Jeffrey Beall's list of predatory open access publishing companies in 2014 but was removed in 2015 following a successful appeal while applying pressure on Beall's employer. Some journals published by MDPI have also been noted by the Chinese Academy of Sciences and Norwegian Scientific Publication Register, two major scientific bodies, for lack of rigour and possible predatory practice." (Source: [Wikipedia](https://en.wikipedia.org/wiki/MDPI))
+ 
 ### Issues
 
 ### https://blogs.lse.ac.uk/impactofsocialsciences
