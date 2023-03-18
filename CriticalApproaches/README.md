@@ -23,10 +23,11 @@ Currently, a controversy swirls around a commercial publishing
 firm which has stepped into the academic publishing business in a big way,
 MDPI (Multidisciplinary Digital Publishing Institute). 
 
-'Publish or perish' is a reality in tertirary academic institutions around the world.
+['Publish or perish'](https://en.wikipedia.org/wiki/Publish_or_perish) is a reality in universities around the world.
 
 However, the supply of academic publishing opportunities is severely limited,
-at least at publications that have a high ranking and a prestigious, respected name. 
+at least at publications that have a high ranking and a prestigious, respected name,
+tus providing standards and norms of academic achievement. 
 
 MDPI has grown very quickly: 
 
