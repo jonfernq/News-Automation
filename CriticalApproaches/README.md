@@ -12,6 +12,11 @@ Anyway, the issue I wish to focus on initially here is scholarly publishing at t
 which is highly dependent on institutions and corporations from the United States and the West,
 and thus is worthy of more critical attention.
 
+The aim is outline the issues and to model them computationally 
+in Python in the spirit of [computational social science](https://en.wikipedia.org/wiki/Computational_social_science)
+(and also contemporary economics).  .
+This sort of analysis, I feel, has the potential to add rigor to many sub-domains of social science, particularly in sociology. 
+
 ### MDPI (Multidisciplinary Digital Publishing Institute)
 
 Currently, a controversy swirls around a commercial publishing
