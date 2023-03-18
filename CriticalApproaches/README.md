@@ -53,7 +53,7 @@ in universities around the world:
 
 "In 2020 we estimate the annual revenues from article processing charges (APCs) among major scholarly journal publishers to have exceeded 2 billion US dollars. Alongside these revenues, a pattern of mergers and takeovers in the industry indicate that publishers find APCs to be an even more profitable business model than subscriptions. This has significant implications for research and researchers, as researchers who cannot make their country, institution or project pay are not able to fulfil their research, ultimately closing access to research." 
 
-- [There is no black and white definition of predatory publishing](https://blogs.lse.ac.uk/impactofsocialsciences/2020/05/13/there-is-no-black-and-white-definition-of-predatory-publishing/) 
+- [There is no black and white definition of predatory publishing - May 13th, 2020](https://blogs.lse.ac.uk/impactofsocialsciences/2020/05/13/there-is-no-black-and-white-definition-of-predatory-publishing/) 
 
 "A key feature of many open access business models is the Article Processing Charge (APC). Whereby, publishers instead of receiving flat subscription fees, are remunerated for each published article. This provides a ‘predatory’ incentive for less scrupulous publishers to publish articles quickly and without appropriate quality control, as, after all, rejected articles consume publisher resources but yield no revenue. 
 
@@ -63,6 +63,13 @@ in universities around the world:
 
 "That definitions of predatory publishing have a subjective element is made clear by observing that economic exploitation can also exist in other business models. For example, the “big deal” subscriptions that lock universities into paying for journals that are seldom used.
 
+The situation is surely to get more intense and complicated with the recent advent of AI-writing aids: 
+
+- [Generative AI and the unceasing acceleration of academic writing - March 14th, 2023](https://blogs.lse.ac.uk/impactofsocialsciences/2023/03/14/generative-ai-and-the-unceasing-acceleration-of-academic-writing/)
+
+Also see:
+
+- [Moving slowly and fixing things – We should not rush headlong into using generative AI in classrooms - March 1st, 2023](https://blogs.lse.ac.uk/impactofsocialsciences/2023/03/01/moving-slowly-and-fixing-things-we-should-not-rush-headlong-into-using-generative-ai-in-classrooms/)
 
 
 ### My critical comment: 
