@@ -2,7 +2,7 @@
 
 ### Critical Approaches to the News 
 
-- [Global Scholarly Publishing]() 
+- [Global Scholarly Publishing Controversy](https://github.com/jonfernq/News-Automation/blob/main/CriticalApproaches/README.md) 
 
 ### News-Automation
 Automate digital news production workflow using Python multimedia and AI packages.
