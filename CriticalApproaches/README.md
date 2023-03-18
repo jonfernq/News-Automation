@@ -6,11 +6,11 @@ of the opinion expressed on a typical op-ed page.
 
 However, in one possible world with unlimited journalistic resources, empirical quantitative and qualitative evidence would 
 be mustered to support op-ed pieces and also conclusions reached by 'experts' expressing their opinions in news articles, 
-which is a pretty common form of editorializing that does exclude certain pontentially opposing voices.
+which is a pretty common form of editorializing that does exclude certain pontetially opposing voices.
 
-Anyway, the issue I wish to focus on initially here is scholarly publishing at the global level 
+The issue I wish to focus on initially here is scholarly publishing at the global level 
 which is highly dependent on institutions and corporations from the United States and the West,
-and thus is worthy of more critical attention.
+and thus given this dependence is worth more critical attention.
 
 The aim is outline the issues and to model them computationally 
 in Python in the spirit of [computational social science](https://en.wikipedia.org/wiki/Computational_social_science)
