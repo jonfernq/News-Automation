@@ -75,8 +75,9 @@ Also see:
 
 ### Communities of Scholarship
 
-Science began in communities of scientists exchanging ideas in small societies such as the royal society, 
-of which Isaac Newton served as a president and Robert Boyle was an early member: 
+Science began in communities of scientists exchanging ideas in small societies such as the British 
+[Royal Society](https://en.wikipedia.org/wiki/Royal_Society) 
+of which Isaac Newton served as president and Robert Boyle was an early member: 
 
 "The Royal Society... Founded on 28 November 1660 [362 years ago], it was granted a royal charter by King Charles II as The Royal Society and is the oldest continuously existing scientific academy in the world." (Source: [Wikipedia](https://en.wikipedia.org/wiki/Royal_Society))
 
